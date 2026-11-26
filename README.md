@@ -10,7 +10,7 @@
 - 🔭 Lagi ngerjain proyek portofolio HTML/CSS
 - 🌱 Lagi latihan PHP dasar dan JavaScript
 - 🎯 Target: bangun web yang rapi dan bisa dipakai
-- 📫 Kontak: isi email atau IG lu di sini
+- 📫 Instagram: @fhrrzy__.
 
 ### 🛡️ Peralatan Tempur
 <p>
